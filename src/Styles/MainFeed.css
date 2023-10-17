@@ -1,0 +1,56 @@
+.main-feed {
+  margin-left: 43px;
+  margin-bottom: 100px;
+}
+
+.card {
+  margin-top: 20px;
+}
+.card :hover {
+  cursor: pointer;
+  opacity: 0.5;
+}
+
+.card-img {
+  height: 140px;
+  border-radius: 7px;
+}
+
+.card-title {
+  font-family: "Roboto", sans-serif;
+  font-weight: 600;
+  color: #000000c6;
+  font-size: 12px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 130px;
+}
+
+.card-artist {
+  font-family: "Roboto", sans-serif;
+  color: #000000c6;
+  font-size: 12px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 130px;
+}
+
+.trending {
+  margin-top: 110px;
+  margin-bottom: 10px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 600;
+  color: #201f20c1;
+  font-size: 18px;
+}
+
+.new-release {
+  margin-top: 50px;
+  margin-bottom: 10px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 600;
+  color: #201f20d1;
+  font-size: 18px;
+}

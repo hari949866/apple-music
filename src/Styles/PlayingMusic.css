@@ -1,0 +1,23 @@
+.img-playing-song {
+  height: 50px;
+}
+
+.playing-container {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.playing-title {
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.721);
+  font-weight: 600;
+  font-family: "Roboto", sans-serif;
+}
+
+.playing-artist {
+  margin-top: 3px;
+  font-size: 12px;
+  color: rgba(0, 0, 0, 0.721);
+  font-family: "Roboto", sans-serif;
+}

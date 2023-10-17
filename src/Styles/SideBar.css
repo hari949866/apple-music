@@ -1,0 +1,41 @@
+.sideBar {
+  width: max-content;
+  position: fixed;
+  top: 0;
+  left: 30px;
+}
+
+.aside-heading {
+  margin-top: 112px;
+  margin-bottom: 22px;
+  font-family: "Roboto", sans-serif;
+  color: #8d8a93;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.library {
+  margin-top: 40px;
+}
+
+.aside-tag {
+  margin-top: 15px;
+  font-family: "Roboto", sans-serif;
+  color: #5d5474;
+  font-weight: 600;
+  font-size: 15px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.aside-tag:hover {
+  cursor: pointer;
+  color: black;
+}
+
+@media screen and (max-width: 900px) {
+  .sideBar {
+    display: none;
+  }
+}

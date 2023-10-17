@@ -1,0 +1,16 @@
+.search-heading {
+  padding-top: 60px;
+  margin-left: 50px;
+  font-size: 20px;
+}
+
+.search-card {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 10px;
+}
+
+.search-card-container {
+  background-color: #f9f5f6c1;
+  padding-bottom: 100px;
+}

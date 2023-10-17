@@ -1,0 +1,27 @@
+.sideBar-feed {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+}
+
+.side-bar {
+  width: 13%;
+  background-color: #f9f5f6;
+  border-right: 13px solid #dedcdc;
+}
+
+.feed {
+  width: 87%;
+  background-color: #f9f5f6;
+}
+
+@media screen and (max-width: 900px) {
+  .side-bar {
+    display: none;
+  }
+  .feed {
+    width: 100%;
+    position: relative;
+    top: 0;
+  }
+}
