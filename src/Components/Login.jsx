@@ -116,7 +116,7 @@ function Login() {
         <img
           onClick={handleLogoClick}
           className="login-logo"
-          src="./logo.png"
+          src="./download.png"
           alt=""
         />
         <img className="login-img" src="./Badshah.png" alt="" />
