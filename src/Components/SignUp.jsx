@@ -103,7 +103,7 @@ function SignUp() {
         <img
           onClick={handleLogoClick}
           className="login-logo"
-          src="./logo.png"
+          src="./download.png"
           alt=""
         />
         <img className="login-img" src="./KishoreKumar.png" alt="" />
