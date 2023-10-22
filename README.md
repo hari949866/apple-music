@@ -1,6 +1,6 @@
-# Jio_Saavan_Clone
+# Apple_Music_Clone
 
-**URL** https://jio-saavan-clone.netlify.app/
+**URL** 
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@
 
 ## Introduction
 
-The JioSaavan Clone is a music streaming platform inspired by JioSaavan, allowing users to discover, listen to, and enjoy their favorite music tracks online. This project emulates the popular music streaming service, offering a seamless and immersive musical experience.
+The Apple Music Clone is a music streaming platform inspired by JioSaavan, allowing users to discover, listen to, and enjoy their favorite music tracks online. This project emulates the popular music streaming service, offering a seamless and immersive musical experience.
 
 ## Features
 
@@ -47,22 +47,19 @@ The technology stack used for this project includes:
 
 ## Getting Started
 
-To get started with the JioSaavan Clone project, follow these steps:
+To get started with the Apple Music Clone project, follow these steps:
 
-1. Clone the repository to your local machine:
 
-   git clone https://github.com/somnathpaul99/Jio_Saavan_Clone.git
+1. Install the project dependencies:
 
-2. Install the project dependencies:
-
-- cd Jio_Saavan_Clone
+- cd Apple _Music_Clone
 - npm install
 
-3. Start the development server:
+2. Start the development server:
 
 - npm run dev
 
-4. Open your web browser and access the project at http://localhost:3000/
+
 
 ## Usage
 
